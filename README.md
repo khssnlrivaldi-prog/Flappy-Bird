@@ -47,5 +47,7 @@ http://localhost:3000
 ## 👨‍💻 Developer
 
 Khasnul Rivaldi
+Radyt alpasha arya kusuma
+Juniansyah Khazuri Mahazasa
 D3 Teknik Informatika
 Politeknik Negeri Pontianak
